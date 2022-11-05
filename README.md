@@ -8,9 +8,9 @@
 
 ## Downloads
 
-Lecture notes download: [MXB103 Lecture Notes PDF](https://www.github.com/Tarang74/MXB103/raw/main/MXB103%20Lecture%20Notes.pdf)
+Lecture notes download: [MXB103 Lecture Notes PDF](https://www.github.com/MathMaestros/MXB103/raw/main/MXB103%20Lecture%20Notes.pdf)
 
-Exam notes download: [MXB103 Exam Notes PDF](https://www.github.com/Tarang74/MXB103/raw/main/MXB103%20Exam%20Notes.pdf)
+Exam notes download: [MXB103 Exam Notes PDF](https://www.github.com/MathMaestros/MXB103/raw/main/MXB103%20Exam%20Notes.pdf)
 
 ---
 
@@ -28,6 +28,7 @@ This repository provides **lecture notes** and **exam notes** for **MXB103 - Int
 4. Root Finding
 5. Numerical Differentiation
 6. Numerical Integration
+7. Linear Systems
 
 ---
 
